@@ -165,16 +165,3 @@ Este repo es un ejemplo de SDD: antes de codear, las specs definen qué construi
 | Estándares de testing | `projects/standars/testing.md` |
 | Estándares de seguridad | `projects/standars/security.md` |
 | Skill de implementación | `projects/skills/adviters-react.md` |
-
----
-
-## Build de producción
-
-```bash
-pnpm build
-pnpm preview
-```
-
-El output queda en `dist/`. Servilo con cualquier hosting estático (Vercel, Netlify, S3, etc.).
-
----
